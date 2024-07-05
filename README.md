@@ -1,2 +1,2 @@
 Amazon clone made by me.
-No group or team idiviual project.
+No group or team indiviual project.
